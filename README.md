@@ -3,7 +3,7 @@
 * Mobile: 18676651554
 * Home: 0755-25709093
 * Email: eyeplum@gmail.com
-* [Github](https://github.com/eyeplum)   [Twitter](https://twitter.com/eyeplum)   [Google+](https://plus.google.com/103284151248378359229/)
+* [Github](https://github.com/eyeplum)   [Twitter](https://twitter.com/eyeplum)   [Google+](https://plus.google.com/103284151248378359229/)   [Weibo](http://weibo.com/eyeplum)
 
 
 ###履历
