@@ -49,11 +49,11 @@
 
 #####2. 个人项目
 ---
-* ［效率 iOS App］摄影计算
+* __［效率 iOS App］摄影计算__
 	* [__App Store 已上架__](https://itunes.apple.com/us/app/photocalculator/id517131450?ls=1&mt=8)
 	* 这是一个帮助摄影师计算摄影参数的 App
 	* 被 creativebloq.com 评为 [The 20 best iPhone apps for designers](http://www.creativebloq.com/design-tools/20-useful-iphone-apps-designers-812522?page=1)
-* ［教育 iOS App］漢字ちは
+* __［教育 iOS App］漢字ちは__
 	* App Store 审核中
 	* 这是一个通过联系日文假名与汉字的相似之处来记忆日文假名的 App
 	* 技术 Tag：UICollectionView，侘び寂び设计风格
@@ -64,7 +64,7 @@
 	* 技术 Tag：CoreData
 	* 因还在审核，面试时可现场展示
 	* ![](https://raw.github.com/eyeplum/EYEResume/master/img/放哪了.png)
-* ［游戏辅助 iOS App］Diamlo（进行中）
+* __［游戏辅助 iOS App］Diamlo（进行中）__
 	* 进行中
 	* 这是一个读取 Blizzard Diablo 3 [官方 API](http://blizzard.github.com/d3-api-docs/) 的游戏辅助 App
 	* 技术 Tag：AFNetworking，CoreData，拟物化设计风格
