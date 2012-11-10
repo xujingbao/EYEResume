@@ -51,11 +51,11 @@
 #####2. 个人项目
 ---
 * __［效率 iOS App］摄影计算__
-	* [__App Store 已上架__](https://itunes.apple.com/us/app/photocalculator/id517131450?ls=1&mt=8)
+	* [__App Store 已上架__](https://itunes.apple.com/app/photocalculator/id517131450?ls=1&mt=8)
 	* 这是一个帮助摄影师计算摄影参数的 App
 	* 被 creativebloq.com 评为 [The 20 best iPhone apps for designers](http://www.creativebloq.com/design-tools/20-useful-iphone-apps-designers-812522?page=1)
 * __［教育 iOS App］漢字ちは__
-	* App Store 审核中
+	* [__App Store 已上架__](https://itunes.apple.com/app/kanjichiwa/id575833563?ls=1&mt=8)
 	* 这是一个通过联系日文假名与汉字的相似之处来记忆日文假名的 App
 	* 技术 Tag：UICollectionView，侘び寂び设计风格
 	* ![漢字ちは](https://raw.github.com/eyeplum/EYEResume/master/img/kanjichiwa.png "漢字ちは 截图")
