@@ -59,7 +59,7 @@
 	* 这是一个通过联系日文假名与汉字的相似之处来记忆日文假名的 App
 	* 技术 Tag：UICollectionView，侘び寂び设计风格
 * __［生活 iOS App］放哪了__
-	* App Store 审核中
+	* [__App Store 已上架__](https://itunes.apple.com/app/fang-na-le/id576222282?ls=1&mt=8)
 	* 这是一个通过拍摄家中杂物，帮助你记住这些杂物的位置的 App
 	* 技术 Tag：CoreData
 * __［游戏辅助 iOS App］Diamlo（进行中）__
