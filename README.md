@@ -6,7 +6,6 @@
 ###正在...
 ---
 * 正在从事：
-	* 创业公司
 	* iOS 开发
 * 正在阅读：
 	* [Test-Driven iOS Development](http://www.amazon.com/Test-Driven-Development-Developers-Library-ebook/dp/B007RNK0W6/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1354349306&sr=1-1&keywords=Test+Driven+iOS+Development)
