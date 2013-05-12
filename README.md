@@ -6,7 +6,7 @@
 ###正在...
 ---
 * 正在从事：
-	* __阿里巴巴 － Mac Labs － Mac OS X / iOS 开发__
+	* __[阿里巴巴 Mac Labs](http://labs.etao.com/) － Mac OS X / iOS 开发__
 * 正在阅读：
 	* [Advanced Mac OS X Programming: The Big Nerd Ranch Guide](http://www.amazon.com/Advanced-Mac-OS-Programming-ebook/dp/B005GWG0L0/ref=sr_1_1?ie=UTF8&qid=1368349917&sr=8-1&keywords=advanced+mac+os+x+programming)
 
