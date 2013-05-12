@@ -1,4 +1,4 @@
-###李龑，男，24岁
+###李龑，男，25岁
 
 * Email: eyeplum@gmail.com
 * [Github](https://github.com/eyeplum)   [Twitter](https://twitter.com/eyeplum)   [Google+](https://plus.google.com/103284151248378359229/)   [Weibo](http://weibo.com/eyeplum)
@@ -6,11 +6,9 @@
 ###正在...
 ---
 * 正在从事：
-	* iOS 开发
+	* __阿里巴巴 － Mac Labs － Mac OS X / iOS 开发__
 * 正在阅读：
-	* [Test-Driven iOS Development](http://www.amazon.com/Test-Driven-Development-Developers-Library-ebook/dp/B007RNK0W6/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1354349306&sr=1-1&keywords=Test+Driven+iOS+Development)
-	* [Cocoa Design Patterns](http://www.amazon.com/Design-Patterns-Developers-Library-ebook/dp/B002RAPB46/ref=tmm_kin_title_0?ie=UTF8&qid=1354349325&sr=1-1-catcorr)
-	* [The Non-Designer's Design Book](http://www.amazon.com/Non-Designers-Design-Edition-Designers-ebook/dp/B00125MJYM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1354349351&sr=1-1&keywords=Non-designer%27s+Design+Book)
+	* [Advanced Mac OS X Programming: The Big Nerd Ranch Guide](http://www.amazon.com/Advanced-Mac-OS-Programming-ebook/dp/B005GWG0L0/ref=sr_1_1?ie=UTF8&qid=1368349917&sr=8-1&keywords=advanced+mac+os+x+programming)
 
 ###履历
 ---
